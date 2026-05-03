@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# containerd source tree (vendor 太大，不納入)
+containerd/vendor/
+containerd/.git/
